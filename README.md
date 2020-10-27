@@ -2,6 +2,8 @@
 
 This repo follows https://github.com/mjhea0/flaskr-tdd
 
+Project Test is on lab6_tests branch of project repository: https://github.com/ECE444-2020Fall/project1-webapp-group9-nente/tree/lab6_tests
+
 ## Test Driven Development (TDD)
 
 Test driven development is a methodology that one implements when working on a development project. The method involves putting the emphasis on writing tests for the intended functionality before implementing said functionalitly. Running the tests before implementation should yield a fail. When implementing, the goal is to get the test to a state such that it passes. Once all the test cases written are passed, the development of that functionality is 'done'. 
